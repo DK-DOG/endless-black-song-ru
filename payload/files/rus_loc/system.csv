@@ -1,0 +1,152 @@
+﻿tag;CHN;EN;JPN;RUS
+interface_language;选择语言;Language;言語を選択;Выбор языка
+bgm_volume;音乐音量;BGM Volume;背景音ボリューム;Громкость музыки
+se_volume;音效音量;SE Volume;效果音ボリューム;Громкость эффектов
+system_cancel;取消;Cancel;キャンセル;Отмена
+system_memory;记忆;Memory;記憶;Воспоминание
+system_saveinfo;要记下哪个回忆？;Which memory do you want to save?;どの記憶を記録しますか？;Какое воспоминание записать?
+system_loadinfo;要想起哪个回忆？;Which memory do you want to recall?;どの記憶を呼び起こしますか？;Какое воспоминание вспомнить?
+system_save;保存;Save;セーブ;Сохранить
+system_load;读取;Load;ロード;Загрузить
+system_pickup;拾取到了;Get;拾う;Получено
+item_blueprint;淡蓝色的便利贴;Light blue sticky note;水色の付箋;Голубой стикер
+item_key;生锈的钥匙;Rusty key;錆びた鍵;Ржавый ключ
+system_TipToTill;给蒂尔的便签;Note to Till;ティルへのメモ;Записка для Тилла
+system_novel_backtotitle;确认要退出到标题界面吗？\n\c[1]（没有保存的记忆将被舍弃）;Are you sure you want to return to the title screen?\n\c[1] (Unsaved memories will be discarded);タイトル画面に戻ってもよろしいですか？\n\c[1]（保存されていない記憶は破棄されます）;Выйти в меню?\n\c[1](Несохранённые воспоминания пропадут)
+system_novel_yes;确认;Confirm;はい;Да
+system_novel_no;不要;No;いいえ;Нет
+system_mush_quicksave;快速保存;Quick Save;クイックセーブ;Быстрое сохранение
+system_mush_quickload;快速读取;Quick Load;クイックロード;Быстрая загрузка
+note_ask;确定要写这些吗？;Sure about writing this?;これを書いていいの？;Точно записать это?
+note_yes;是的;Yes.;うん;Да.
+note_no;还没有;Let me think a bit more.;もう少し考える;Ещё подумаю.
+EndingBackToTitle;按确认键回到标题;Press the confirm button to return to the title screen…;確認キーでタイトル画面に戻ります…;Нажмите подтверждение, чтобы вернуться к заголовку…
+gallery_variation;差分;Variations;差分;Вариации
+chapter_1;Chapter 1 序幕;Chapter 1 Prologue;Chapter 1 序幕;Глава 1. Пролог
+chapter_2;Chapter 2 模糊的世界;Chapter 2 Blurry World;Chapter 2 ぼんやりした世界;Глава 2. Размытый мир
+chapter_3;Chapter 3 一如既往;Chapter 3 As Always;Chapter 3 いつも通り;Глава 3. Всё как всегда
+chapter_3_1;Chapter 4.1 这里就绕路回家吧;Chapter 3.1 Let's take the long way home from here;Chapter 3.1 ここから遠回りして家に帰ろう;Глава 4.1. Отсюда домой в обход
+chapter_3_2;Chapter 4.2 直接从大门走吧;Chapter 3.2 Let's go straight through the main gate;Chapter 3.2 正門からまっすぐ行こう;Глава 4.2. Сразу через главные ворота
+chapter_4;Chapter 4 模糊的走廊;Chapter 4 Blurry Corridor;Chapter 4 ぼんやりした廊下;Глава 4. Размытый коридор
+chapter_5_1_1;Chapter 5.1.1 模糊的话语;Chapter 5.1.1 Blurry Words;Chapter 5.1.1 曖昧な言葉;Глава 5.1.1. Размытые слова
+chapter_5_1_2;Chapter 5.1.2 模糊的未来";Chapter 5.1.1 Blurry Future;Chapter 5.1.1 ぼんやりした未来;Глава 5.1.2. Размытое будущее
+chapter_5_2_1;Chapter 5.2.1 皑皑白雪之下;Chapter 5.2.1 Under the White Snow;Chapter 5.2.1 白い雪の下;Глава 5.2.1. Под белым снегом
+chapter_5_2_2;Chapter 5.2.2 清澈的未来;Chapter 5.2.2 Clear Future;Chapter 5.2.2 澄み切った未来;Глава 5.2.2. Ясное будущее
+chapter_5_3_1;Chapter 5.3.1 埋葬的永恒;Chapter 5.3.1 Buried Eternity;Chapter 5.3.1 埋葬された永遠;Глава 5.3.1. Погребённая вечность
+chapter_5_3_2;Chapter 5.3.2 白日;Chapter 5.3.2 Daylights;Chapter 5.3.2 白い日;Глава 5.3.2. Белый день
+chapter_5_4_1;Chapter 5.4.1 血色残阳;Chapter 5.4.1 Bloody Sunset;Chapter 5.4.1 血色の残陽;Глава 5.4.1. Кровавый закат
+chapter_5_4_2;Chapter 5.4.2 堕入深渊;Chapter 5.4.2 Fall into the Abyss;Chapter 5.4.2 深淵へ堕ちる;Глава 5.4.2. Падение в бездну
+GalleryOpen;画廊已开启！回到标题界面看看吧！;The gallery is now open. Go back to the title screen and take a look!;ギャラリーが開放されました。タイトル画面に戻って確認してみましょう！;Галерея открыта. Вернись в меню и загляни!
+Notice_Confirm;请按 空格键 确认并继续;Press [Space] to Confirm and Continue;スペースキーを押して 確定;Нажмите пробел, чтобы подтвердить и продолжить
+system_Gallerylocked;本功能通关任意结局后解锁;Gallery unlocks after clearing any ending;いずれかのエンディングクリア後にギャラリーが解放されます;Откроется после любой концовки
+system_to_title;回到标题;Back to Title;タイトルへ;К заголовку
+bgs_volume;背景音量;BGS Volume;BGS音量;Громкость фона
+me_volume;ME 音量;ME Volume;ME音量;Громкость ME
+system_always_dash;始终跑步;Always Dash;常時ダッシュ;Всегда бежать
+system_command_remember;记住指令;Command Remember;コマンド記憶;Запоминать команды
+cmd_fight;战斗;战斗;战斗;Бой
+cmd_escape;逃跑;逃跑;逃跑;Побег
+cmd_attack;攻击;攻击;攻击;Атака
+cmd_guard;防御;防御;防御;Защита
+cmd_item;物品;物品;物品;Предметы
+cmd_skill;技能;技能;技能;Навыки
+cmd_equip;装备;装备;装备;Снаряжение
+cmd_status;状态;状态;状态;Состояние
+cmd_formation;整队;整队;整队;Построение
+cmd_gameend;游戏结束;游戏结束;游戏结束;Конец игры
+cmd_weapon;武器;武器;武器;Оружие
+cmd_armor;护甲;护甲;护甲;Броня
+cmd_keyitem;重要物品;重要物品;重要物品;Важные предметы
+cmd_optimize;最强装备;最强装备;最强装备;Лучшее снаряжение
+cmd_clear;清空;清空;清空;Очистить
+cmd_buy;购买;购买;购买;Купить
+cmd_sell;出售;出售;出售;Продать
+term_level;等级;等级;等级;Уровень
+term_exp;经验值;经验值;经验值;Опыт
+par_mhp;最大 HP;最大 HP;最大 HP;Макс. HP
+par_mmp;最大 MP;最大 MP;最大 MP;Макс. MP
+par_atk;攻击力;攻击力;攻击力;Атака
+par_def;防御力;防御力;防御力;Защита
+par_mat;魔法攻击;魔法攻击;魔法攻击;Маг. атака
+par_mdf;魔法防御;魔法防御;魔法防御;Маг. защита
+par_agi;敏捷;敏捷;敏捷;Ловкость
+par_luk;幸运;幸运;幸运;Удача
+par_hit;命中率;命中率;命中率;Меткость
+par_eva;回避率;回避率;回避率;Уклонение
+m_fail;对%1没有效果！;对%1没有效果！;对%1没有效果！;На %1 это не действует!
+m_admg;%1受到了 %2 点伤害！;%1受到了 %2 点伤害！;%1受到了 %2 点伤害！;%1 получает %2 ед. урона!
+m_adrain;%1被吸收了 %3 点 %2！;%1被吸收了 %3 点 %2！;%1被吸收了 %3 点 %2！;У %1 поглощено %3 ед. %2!
+m_again;%1的 %2 增加了 %3 点！;%1的 %2 增加了 %3 点！;%1的 %2 增加了 %3 点！;%2 у %1 увеличивается на %3!
+m_aloss;%1的 %2 减少了 %3 点！;%1的 %2 减少了 %3 点！;%1的 %2 减少了 %3 点！;%2 у %1 уменьшается на %3!
+m_anodmg;%1没有受到伤害！;%1没有受到伤害！;%1没有受到伤害！;%1 не получает урона!
+m_anohit;Miss！ %1没有受到伤害！;Miss！ %1没有受到伤害！;Miss！ %1没有受到伤害！;Промах! %1 не получает урона!
+m_arec;%1恢复了 %3 点 %2！;%1恢复了 %3 点 %2！;%1恢复了 %3 点 %2！;%1 восстанавливает %3 ед. %2!
+m_buff;%1的%2上升了！;%1的%2上升了！;%1的%2上升了！;%2 у %1 растёт!
+m_unbuff;%1的%2恢复正常了！;%1的%2恢复正常了！;%1的%2恢复正常了！;%2 у %1 возвращается в норму!
+m_counter;%1的反击！;%1的反击！;%1的反击！;Контратака %1!
+m_crita;痛恨一击！;痛恨一击！;痛恨一击！;Тяжёлый удар!
+m_crite;会心一击！;会心一击！;会心一击！;Критический удар!
+m_debuff;%1的%2下降了！;%1的%2下降了！;%1的%2下降了！;%2 у %1 падает!
+m_defeat;%1被击败了。;%1被击败了。;%1被击败了。;%1 побеждён.
+m_emerge;%1出现了！;%1出现了！;%1出现了！;Появляется %1!
+m_enodmg;没有对%1造成伤害！;没有对%1造成伤害！;没有对%1造成伤害！;%1 не получает урона!
+m_enohit;Miss！没有对%1造成伤害！;Miss！没有对%1造成伤害！;Miss！没有对%1造成伤害！;Промах! %1 не задет!
+m_erec;%1恢复了 %3 点 %2！;%1恢复了 %3 点 %2！;%1恢复了 %3 点 %2！;%1 восстанавливает %3 ед. %2!
+m_escfail;但是没有逃跑成功！;但是没有逃跑成功！;但是没有逃跑成功！;Сбежать не удалось!
+m_escstart;%1开始逃跑了！;%1开始逃跑了！;%1开始逃跑了！;%1 пытается сбежать!
+m_eva;%1躲开了攻击！;%1躲开了攻击！;%1躲开了攻击！;%1 уклоняется!
+m_expnext;距离下一%1;距离下一%1;距离下一%1;До следующего %1
+m_exptot;现在的%1;现在的%1;现在的%1;Всего %1
+m_lvup;%1升到了 %2 %3！;%1升到了 %2 %3！;%1升到了 %2 %3！;%1 достигает %2 %3!
+m_meva;%1抵消了魔法！;%1抵消了魔法！;%1抵消了魔法！;%1 рассеивает магию!
+m_mref;%1反射了魔法！;%1反射了魔法！;%1反射了魔法！;%1 отражает магию!
+m_getexp;获得了 %1 点%2！;获得了 %1 点%2！;获得了 %1 点%2！;Получено %1 ед. %2!
+m_getgold;获得了 %1\G！;获得了 %1\G！;获得了 %1\G！;Получено %1\G!
+m_getitem;获得了%1！;获得了%1！;获得了%1！;Получено: %1!
+m_getskill;学会了%1！;学会了%1！;学会了%1！;Освоено: %1!
+m_party;%1的队伍;%1的队伍;%1的队伍;Отряд %1
+m_have;持有数;持有数;持有数;В наличии
+m_pre;%1先发制人！;%1先发制人！;%1先发制人！;%1 застаёт врага врасплох!
+m_guard;%1保护了%2！;%1保护了%2！;%1保护了%2！;%1 защищает %2!
+m_surprise;%1被偷袭了！;%1被偷袭了！;%1被偷袭了！;%1 попадает в засаду!
+m_use;%1使用了%2！;%1使用了%2！;%1使用了%2！;%1 использует %2!
+m_win;%1胜利了！;%1胜利了！;%1胜利了！;%1 побеждает!
+t_newsong;New Song;New Song;New Song;Новая песнь
+t_memory;Black Memory;Black Memory;Black Memory;Чёрная память
+t_config;Config & Language;Config & Language;Config & Language;Настройки
+t_gallery;Unknown Gallery;Unknown Gallery;Unknown Gallery;Галерея
+t_cure;...Cure;...Cure;...Cure;...Исцеление
+game_title;永不停息的黑暗之歌 ~ Endless Black Song;永不停息的黑暗之歌 ~ Endless Black Song;永不停息的黑暗之歌 ~ Endless Black Song;Бесконечная песнь тьмы
+qload_ask;クイックロードを読み込みますか？\n\c[1]（保存していない内容は保存されません）;クイックロードを読み込みますか？\n\c[1]（保存していない内容は保存されません）;クイックロードを読み込みますか？\n\c[1]（保存していない内容は保存されません）;Загрузить быстрое сохранение?\n\c[1](Несохранённое пропадёт)
+cr_staff;制作人员;制作人员;制作人员;Над игрой работали
+cr_role1;导演、编剧、美术、音乐;导演、编剧、美术、音乐;导演、编剧、美术、音乐;Режиссура, сценарий, графика, музыка
+cr_nana;奈娜;奈娜;奈娜;Нана
+cr_weibo1;@阳光脆蟹饼;@阳光脆蟹饼;@阳光脆蟹饼;@Янгуан Цуйсебин
+cr_xhs1;@浊眼的奈娜;@浊眼的奈娜;@浊眼的奈娜;@Чжоянь Нана
+cr_role2;程序、地图、美术、音乐;程序、地图、美术、音乐;程序、地图、美术、音乐;Код, карты, графика, музыка
+cr_lan_x;@聪明岚_;@聪明岚_;@聪明岚_;@Клеверлан_
+cr_lan;聪明岚;聪明岚;聪明岚;Клеверлан
+cr_loc;本地化;本地化;本地化;Локализация
+cr_amo;阿莫;阿莫;阿莫;Амо
+cr_weibo2;@橡果批发零售黑心贩;@橡果批发零售黑心贩;@橡果批发零售黑心贩;@Жёлуди оптом
+cr_test;测试;测试;测试;Тестирование
+cr_order;（排名不分先后）;（排名不分先后）;（排名不分先后）;(порядок случайный)
+cr_p1;玻璃之线;玻璃之线;玻璃之线;Стеклянная нить
+cr_p2;羽和也;羽和也;羽和也;Ю Кадзуя
+cr_p3;浔;浔;浔;Сюнь
+cr_p4;粉色白狼毒唯;粉色白狼毒唯;粉色白狼毒唯;Фэньсэ Байландувэй
+cr_p5;煴;煴;煴;Юнь
+cr_p6;蛙脚;蛙脚;蛙脚;Вацзяо
+cr_res;第三方资源致谢;第三方资源致谢;第三方资源致谢;Сторонние ресурсы
+cr_plugins;插件;插件;插件;Плагины
+cr_sfx;音效;音效;音效;Звуки
+cr_sfx1;音々亭;音々亭;音々亭;Отодама-тэй
+cr_sfx2;魔王魂;魔王魂;魔王魂;Мао-дамасии
+cr_sfx3;びたち一素材館;びたち一素材館;びたち一素材館;Витатити, архив материалов
+cr_special;特别感谢;特别感谢;特别感谢;Особая благодарность
+cr_alice;上海アリス幻樂団;上海アリス幻樂団;上海アリス幻樂団;Команда Shanghai Alice
+cr_sushi;某回转寿司连锁店;某回转寿司连锁店;某回转寿司连锁店;Одна сеть суши на ленте
+cr_noodle;花溪牛肉粉;花溪牛肉粉;花溪牛肉粉;Лапша Хуаси с говядиной
+cr_noodle2;肠旺面;肠旺面;肠旺面;Лапша чанван
+cr_you;And You!;And You!;And You!;И ты!
+cr_play;特别感谢您的游玩！;特别感谢您的游玩！;特别感谢您的游玩！;Спасибо, что вы играли!

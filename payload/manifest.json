@@ -1,0 +1,335 @@
+{
+  "game": "Endless Black Song",
+  "exe_name": "EndlessBlackSong.exe",
+  "exe_size": 860776960,
+  "original_sha256": "964262ac94d8ed4ca1f616da1247101fc9e5459ad3612e1a26a7e22b9d71e6d8",
+  "patched_sha256": "e8e12ad55870ede3e8f66c9abb5e49205cd1ed8aa3fa13a900811c04be849660",
+  "hunks": [
+    {
+      "path": "www/data/EndingCredits.txt",
+      "offset": 419351216,
+      "length": 1487,
+      "original_sha256": "04b6322137ffcac19f48944194abdb6c1be0f43f5c92892ce7231b71499e8aac",
+      "patched_sha256": "559bf9210f02c56052d912720212a5207cce30497710a58986aa40e7a6c3a87b",
+      "file": "hunks/0001.bin",
+      "original_file": "hunks/0001.orig.bin"
+    },
+    {
+      "path": "www/data/System.json",
+      "offset": 421539977,
+      "length": 2169,
+      "original_sha256": "9056be6f8197bcfeaf50775af65c0d931a1f71b3bfdee2e4337bdbfecd498a12",
+      "patched_sha256": "061d9714f7a0dd84b4138f6e9521e4d731c68e746c82fb32b75e49cea01dfb53",
+      "file": "hunks/0002.bin",
+      "original_file": "hunks/0002.orig.bin"
+    },
+    {
+      "path": "www/data/System.json",
+      "offset": 421542206,
+      "length": 3859,
+      "original_sha256": "ab6548f08dfb6e5d2bdd1acfc01d7dffdfbddb0ada9cbadc0dfef8f216ba21b2",
+      "patched_sha256": "42318b8d294ce8239063b3baf626f66b6834e6d8cba7c79b3a33673dc566a179",
+      "file": "hunks/0003.bin",
+      "original_file": "hunks/0003.orig.bin"
+    },
+    {
+      "path": "www/js/plugins/MadeWithMv.js",
+      "offset": 845396778,
+      "length": 39,
+      "original_sha256": "6b230f39fb863e12b6c8d310c6b7ed05e3712c9a0a0bde979800065fca15cad8",
+      "patched_sha256": "7dc9d0d2068a5534a2e89ea9bd51b7736eafc5fe30b8fd3aab2ef245bc2c47a0",
+      "file": "hunks/0004.bin",
+      "original_file": "hunks/0004.orig.bin"
+    },
+    {
+      "path": "www/js/plugins.js",
+      "offset": 845973695,
+      "length": 57471,
+      "original_sha256": "db8469f6d04a89c8ecb6fe26efd93e1a30d2de01bd38f52291465e2e5de05d87",
+      "patched_sha256": "4b961c539e967b6116ef028e6d2af2ad21d74a41f64a1a5056a587a18a87483f",
+      "file": "hunks/0005.bin",
+      "original_file": "hunks/0005.orig.bin"
+    },
+    {
+      "path": "www/js/rpg_scenes.js",
+      "offset": 846680165,
+      "length": 39,
+      "original_sha256": "6b230f39fb863e12b6c8d310c6b7ed05e3712c9a0a0bde979800065fca15cad8",
+      "patched_sha256": "7dc9d0d2068a5534a2e89ea9bd51b7736eafc5fe30b8fd3aab2ef245bc2c47a0",
+      "file": "hunks/0006.bin",
+      "original_file": "hunks/0006.orig.bin"
+    },
+    {
+      "path": "www/save/locale.rpgsave",
+      "offset": 850988875,
+      "length": 3,
+      "original_sha256": "bbfd32d8e72a9062a10c25a239a8694c130f6d23af05b1f47dde44dea4192a03",
+      "patched_sha256": "2e74d2c6086d20faccae7a95708a6a53cd7874d00c678e0a49c49d20e917fa76",
+      "file": "hunks/0007.bin",
+      "original_file": "hunks/0007.orig.bin"
+    }
+  ],
+  "files": [
+    {
+      "path": "img/pictures/GalleryTutorial_ru.png",
+      "sha256": "3fa07fc490257d9c9fa6410774c988ab3a3e175a89be86d69d9379478e04b02e",
+      "size": 35875
+    },
+    {
+      "path": "img/pictures/RUS/interact_tutorial_en.png",
+      "sha256": "bc1a868f1d602c18293503f892b19ddf50050a9d40dc493cad0c001b150f7c32",
+      "size": 24326
+    },
+    {
+      "path": "img/pictures/RUS/move_tutorial_en.png",
+      "sha256": "038ec1c362b068d6a71194bb30da455a427a6ec1a5e5156305b5d66f78e7e455",
+      "size": 25615
+    },
+    {
+      "path": "img/system/RUS/InteractButton_en.png",
+      "sha256": "d1e20d1b464855769fef69b6944f7718974ad4eef45813b16e11d7a99b128efc",
+      "size": 2421
+    },
+    {
+      "path": "img/system/RUS/MadeWithMv.png",
+      "sha256": "fb89885e67a090166b81cc12a7402e3c48551e1a2aaea6c7efa1ba13738d1d76",
+      "size": 16842
+    },
+    {
+      "path": "img/system/RUS/_comBackLog.png",
+      "sha256": "26dacb7dee04cb40976150f4090c5454c4cbcf6b1850903bca5b756f2aeda035",
+      "size": 6848
+    },
+    {
+      "path": "img/system/RUS/_comConfig.png",
+      "sha256": "feee0b950213f46ebfeaa45c4d2a90f85e677e0a3d6872171f9d008aad1f5f2e",
+      "size": 5813
+    },
+    {
+      "path": "img/system/RUS/_comHide.png",
+      "sha256": "7ed2433942fa7ed07d55e5ca735bcbb655c713738c6010546eaa5660e28fbf7c",
+      "size": 5520
+    },
+    {
+      "path": "img/system/RUS/_comMenu.png",
+      "sha256": "3d3a5c2f5a98d99d23faf48ffec87259cd91bb173f8446c7ed7080485787290d",
+      "size": 4660
+    },
+    {
+      "path": "img/system/RUS/_comSkip.png",
+      "sha256": "d1ed6f59a821a0bf1a25015e746a5d2e49528c2d6299b4f21c7a7a2929af7189",
+      "size": 4922
+    },
+    {
+      "path": "img/system/RUS/_comSkipping.png",
+      "sha256": "2a53f904d1846fdf4900579c6b5d029cb35a830552a38d0bd593a7703c504992",
+      "size": 2914
+    },
+    {
+      "path": "img/system/RUS/_comTitle.png",
+      "sha256": "21ec73e2ab99755098958ed750691451bb0a72caab07d8efe4b41f499059dc05",
+      "size": 4212
+    },
+    {
+      "path": "img/system/RUS/opening2.png",
+      "sha256": "e0288a91a8eff369213e024561899ba420cf21bc0521b34653cd2d2abd5aeafb",
+      "size": 75165
+    },
+    {
+      "path": "img/system/RUS/opening3.png",
+      "sha256": "3e5e985d494851c113379436fcd15ac164b51e223ff38cb388e5dd2f5bd5cce2",
+      "size": 69464
+    },
+    {
+      "path": "img/titles1/RUS/title_l_logo.png",
+      "sha256": "469dd0e67ec6d1dbb42fee5dbff23ef3aa7f4e63dd3a1a4476818ee58033c2bc",
+      "size": 94645
+    },
+    {
+      "path": "rus_loc/Plot001.csv",
+      "sha256": "2d06e296ef08f3ee00b554b22ec9e54e574e68ad45344e6cfcafc645906ea85c",
+      "size": 39248
+    },
+    {
+      "path": "rus_loc/Plot002.csv",
+      "sha256": "0eb0ee09a26703a17a27a6669cb882f27e9805c5d5e84df4e41c45302152866e",
+      "size": 25631
+    },
+    {
+      "path": "rus_loc/Plot003.csv",
+      "sha256": "9ff0159214637c98eef0c4544602610127a7c1148a45163b8d5a727e377698fd",
+      "size": 40382
+    },
+    {
+      "path": "rus_loc/Plot004.csv",
+      "sha256": "a60e7e65f6da63b16162e2bebee11693e82b26020f3e9836a3f9becc2a6ec370",
+      "size": 10623
+    },
+    {
+      "path": "rus_loc/Plot005.csv",
+      "sha256": "29b6c9833eb95519e0c581faa293067f2954a44826020a63e9aaffd1f4dc9a1e",
+      "size": 1069
+    },
+    {
+      "path": "rus_loc/Plot006.csv",
+      "sha256": "5f71c09e4dce4d28026247afa57c2cc054b9ab158c8745244a185b16eb5c79d8",
+      "size": 15143
+    },
+    {
+      "path": "rus_loc/Plot007.csv",
+      "sha256": "24c81dfcaf55dd1bbf119c067c83fec44d9f82d6d8214b56fc2cf47311594aad",
+      "size": 22
+    },
+    {
+      "path": "rus_loc/Plot008.csv",
+      "sha256": "e8fca30c1885d7ac64b5b61b06d80eb5cd49379ba0d0ee3577a6ca7361c481a9",
+      "size": 2760
+    },
+    {
+      "path": "rus_loc/Plot009.csv",
+      "sha256": "9c454a135d41dbdc9b1998a8a7e66c384414088c28c0de63c809315c40786300",
+      "size": 16455
+    },
+    {
+      "path": "rus_loc/Plot010.csv",
+      "sha256": "4885613726e8e8b050e0de6d94d21368b0c80a8c63b49b6b2c39f701eb08a46a",
+      "size": 34866
+    },
+    {
+      "path": "rus_loc/Plot011.csv",
+      "sha256": "62d3a8d66172879cb733c031502d72b607ef26a4f93cf5ee5db9b7ad392fc658",
+      "size": 39759
+    },
+    {
+      "path": "rus_loc/Plot011_new.csv",
+      "sha256": "ca3f2236e4e9e0dd968b226014bc1f2baf4f42869b0ef9637bd4e58723daf84c",
+      "size": 31043
+    },
+    {
+      "path": "rus_loc/Plot012.csv",
+      "sha256": "042990c08e12f510c13ca45698f02e576723194e84edfd7ebfc9c65da8001172",
+      "size": 11477
+    },
+    {
+      "path": "rus_loc/Plot013.csv",
+      "sha256": "e75f63bd409c8308e7b2807e7fa8e75f818cf3ea7278ee3ca7e53700a51a4773",
+      "size": 6327
+    },
+    {
+      "path": "rus_loc/Plot014.csv",
+      "sha256": "8324289ed129f8cda02bb95c1022e9704c642011b771acea0ae5031f2e5513ce",
+      "size": 10904
+    },
+    {
+      "path": "rus_loc/Plot015.csv",
+      "sha256": "a8dfba5e9f97a8f91771f4de642a7b61894dcce29dbd8016d46f163f308a251a",
+      "size": 42606
+    },
+    {
+      "path": "rus_loc/Plot016.csv",
+      "sha256": "3adcb03bcbf5072d102ae67ac1cd37c68ca5101bd26213a067f8d7c34d78a03d",
+      "size": 373
+    },
+    {
+      "path": "rus_loc/Plot017.csv",
+      "sha256": "d93baa2e782b6e61d761222b690b8288aba68394370a87fe1739fde410d64887",
+      "size": 6111
+    },
+    {
+      "path": "rus_loc/Plot018.csv",
+      "sha256": "3f0170ea3bf264d92faad95d2ea2396669e85a2275c92f1a0cd4212c407bb1cc",
+      "size": 159
+    },
+    {
+      "path": "rus_loc/Plot019.csv",
+      "sha256": "cbe7922e7b12d2de2ad79fc064611daf5319aeeafb31ef568edaba2077553551",
+      "size": 301
+    },
+    {
+      "path": "rus_loc/Plot020.csv",
+      "sha256": "bf3846ef8b9dabfa8c5917fec94caaa275983ef4d30e76df06b2bb83a289a4b9",
+      "size": 624
+    },
+    {
+      "path": "rus_loc/Plot021.csv",
+      "sha256": "4003d81b22b4d74bcdc4468c32ff7b4e0f0036659569a0b82ebc78846224db2d",
+      "size": 301
+    },
+    {
+      "path": "rus_loc/Plot022.csv",
+      "sha256": "f2ce9dc045e993fb93141b8bd2c45686499eb628365dce835394ebbea04eb4aa",
+      "size": 15385
+    },
+    {
+      "path": "rus_loc/Plot023.csv",
+      "sha256": "0651e979f5f36b6b8ce73f3b3fcc01a2ec2a8a505ed9d2493988458bf0755aa3",
+      "size": 16356
+    },
+    {
+      "path": "rus_loc/Plot024.csv",
+      "sha256": "86a39b2364fd17898eb954b884a9e0850d97c4bf6bee50c42edf0ffd5309f4f2",
+      "size": 12653
+    },
+    {
+      "path": "rus_loc/Plot025.csv",
+      "sha256": "faa404bf0c0a38492add1cf4ddad3b77e540821d5fdfd50789c9b921030eebcd",
+      "size": 10836
+    },
+    {
+      "path": "rus_loc/Plot026.csv",
+      "sha256": "b32fd17153f80b90d1a396d6d4ea7141988507705e59597a395489022ad34c1d",
+      "size": 23731
+    },
+    {
+      "path": "rus_loc/Plot027.csv",
+      "sha256": "76a6f187654fe2c043026d748975402ef5967993b4710b55cf87935efd42d27f",
+      "size": 27954
+    },
+    {
+      "path": "rus_loc/Plot028.csv",
+      "sha256": "a70dfd6af55722ef2f44a3db119c72fcc1f81cf870286dba7d026e9a8baba796",
+      "size": 9675
+    },
+    {
+      "path": "rus_loc/Plot029.csv",
+      "sha256": "94a3586a607b454df404c57832c9c40748f4cb37cd118ea3ac9633949cc2ab6a",
+      "size": 69823
+    },
+    {
+      "path": "rus_loc/Plot030.csv",
+      "sha256": "cfd45ffb8cb92870b6c42b4a184db4e22d386642fda8f8e69174421b25cb478f",
+      "size": 43400
+    },
+    {
+      "path": "rus_loc/Plot031.csv",
+      "sha256": "db1dd50791da4353ab8b8b857053281b6c5c6ca1a097d3f4558cf898a428ed99",
+      "size": 2991
+    },
+    {
+      "path": "rus_loc/Plot032.csv",
+      "sha256": "233f94c1493b26414864ac5e534d408ed1fa21a9b398e129e11fc691c988a926",
+      "size": 1044
+    },
+    {
+      "path": "rus_loc/Plot_Choices.csv",
+      "sha256": "f888967a3e219c61a812146d2d40d06e73f9465647560c1aec449c907dd248c4",
+      "size": 9377
+    },
+    {
+      "path": "rus_loc/system.csv",
+      "sha256": "8cb23523818adbcb79e387f72ff045c846be7c51387f1d56b7915aaac0e4d5e1",
+      "size": 14716
+    }
+  ],
+  "root_files": [
+    {
+      "name": "Как играть по-русски.txt",
+      "sha256": "e1d9a86cce8ebbec84979b1c22ac9b999f3a87e49e0a154af67e1c109b0043fd",
+      "size": 409
+    }
+  ],
+  "fonts": [
+    "georgia.ttf",
+    "georgiab.ttf"
+  ]
+}
